@@ -29,3 +29,5 @@
 - yarn add react-native-file-viewer
 
 ###### Demo Example
+<!-- ![chat_screen](https://user-images.githubusercontent.com/41906092/136560349-0123f878-f63e-4abd-b60d-b4b504a6b2c2.jpeg){:height="50%" width="50%"} -->
+<img src="https://user-images.githubusercontent.com/41906092/136560349-0123f878-f63e-4abd-b60d-b4b504a6b2c2.jpeg" width="300" height="600">
