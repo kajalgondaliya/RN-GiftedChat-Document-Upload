@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1035125960819",
+    "firebase_url": "https://rngiftedchat-96d40-default-rtdb.firebaseio.com",
+    "project_id": "rngiftedchat-96d40",
+    "storage_bucket": "rngiftedchat-96d40.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1035125960819:android:e668193ee7bf91de94fa06",
+        "android_client_info": {
+          "package_name": "com.rn_gifted_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1035125960819-chuc89d6q9b4e6jbc29f8e8ku0dau2in.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rn_gifted_chat",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "1035125960819-227rk1t1hr2c6ote5vkrp1olk6f3fiu4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA86DHDyuoL68sdy5FRyQNqEmvblP9VziA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1035125960819-227rk1t1hr2c6ote5vkrp1olk6f3fiu4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1035125960819-tbdioc7pv4ahn7ornv1di78jfhn1s1ao.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.RN-Gifted-Chat"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
